@@ -1,4 +1,6 @@
-{ "semanticColors": {
+{
+    
+   { "semanticColors": {
     "BACKGROUND_TERTIARY": [
       "#000000"
     ],
@@ -455,3 +457,4 @@
     "size": "cover",
     "position": "center"
   }
+}
