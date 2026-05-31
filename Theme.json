@@ -1,9 +1,9 @@
 {
-  "name": "Filipino baddie and indian nigga theme",
-  "description": "E-dater cunts theme",
+  "name": "Loverbirds",
+  "description": "FilipinoXindian",
   "authors": [
     {
-      "name": "Oxsk",
+      "name": "Antriksh",
       "id": "1234"
     }
   ],
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/Aizen026/Themes-stuff/refs/heads/main/E-dater_woman.jpg",
+    "url": "https://files.catbox.moe/t28grc.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
